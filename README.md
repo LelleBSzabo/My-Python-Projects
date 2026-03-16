@@ -177,3 +177,9 @@ This project demonstrates foundational **Python programming skills**, which are 
 
 The project highlights the ability to **write structured code, build logical workflows, and create interactive programs** using Python.
 
+## Project Links
+- https://colab.research.google.com/drive/1-Kswe9ynn0ZASpUW04BCuLbnryL_S8dl?usp=sharing
+- https://colab.research.google.com/drive/116ZgJbwxTW2LVOuq7qCJxZwwFN_PqTgx?usp=sharing
+- https://colab.research.google.com/drive/1clCpkGWgbcLIwXMzFzqQeIW5XMzgro6C?usp=sharing
+- https://colab.research.google.com/drive/1S1LUdwLYgA3gejCvISDe4R95mDBVp-zz?usp=sharing
+
