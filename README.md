@@ -177,9 +177,28 @@ This project demonstrates foundational **Python programming skills**, which are 
 
 The project highlights the ability to **write structured code, build logical workflows, and create interactive programs** using Python.
 
-## Project Links
-- https://colab.research.google.com/drive/1-Kswe9ynn0ZASpUW04BCuLbnryL_S8dl?usp=sharing
-- https://colab.research.google.com/drive/116ZgJbwxTW2LVOuq7qCJxZwwFN_PqTgx?usp=sharing
-- https://colab.research.google.com/drive/1clCpkGWgbcLIwXMzFzqQeIW5XMzgro6C?usp=sharing
-- https://colab.research.google.com/drive/1S1LUdwLYgA3gejCvISDe4R95mDBVp-zz?usp=sharing
+---
+### Day 1 Practice
 
+<img width="430" height="224" alt="image" src="https://github.com/user-attachments/assets/e23a9224-5028-4721-8ffb-27e949a4eb17" />
+
+---
+### Exercises
+
+<img width="430" height="185" alt="image" src="https://github.com/user-attachments/assets/87682d34-d52d-4c10-8933-2003e1c4f55e" />
+
+---
+### Day 2 Practice
+
+<img width="430" height="278" alt="image" src="https://github.com/user-attachments/assets/d081fb2c-d606-45e1-895e-2dd7436945c8" />
+
+---
+### Exercises
+
+<img width="430" height="192" alt="image" src="https://github.com/user-attachments/assets/6298622a-3f4c-4e83-b707-d9e9e0ece977" />
+
+---
+
+<img width="430" height="273" alt="image" src="https://github.com/user-attachments/assets/08272cf2-bfa5-4532-8e8a-f5c9581e13f2" />
+
+---
